@@ -25,6 +25,12 @@ namespace WpfTestGit
             InitializeComponent();
         }
 
+        public void MethodForTest()
+        {
+            MessageBox.Show("Test method");
+
+        }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("dfesfesf");
