@@ -33,7 +33,7 @@ namespace WpfTestGit
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("dfesfesf");
+            MessageBox.Show(text1.Text + "!!!!!");
         }
     }
 }
