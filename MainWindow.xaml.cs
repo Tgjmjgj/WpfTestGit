@@ -34,6 +34,9 @@ namespace WpfTestGit
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show(text1.Text + "!!!!!");
+            double a = 15;
+            double b = 5;
+            double c = Math.Pow(a, b);
         }
     }
 }
