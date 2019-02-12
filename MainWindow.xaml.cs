@@ -36,11 +36,6 @@ namespace WpfTestGit
             MessageBox.Show(text1.Text + "!!!!!");
 <<<<<<< HEAD
             double a = 15;
-            double b = 5;
-            double c = Math.Pow(a, b);
-=======
-	    int a = 2;
- 	    int b = 4;
             int c = a % b;
 >>>>>>> 3bb2474de4c8ee849d72b3ec1b8e4a5e285053ae
         }
