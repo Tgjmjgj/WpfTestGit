@@ -35,7 +35,8 @@ fesffs
 
         public void MethodForTest()
         {
-            MessageBox.Show("Test method");
+            MessageBox.Show("Test method for user 2");
+            int a = 7;
 
         }
 
