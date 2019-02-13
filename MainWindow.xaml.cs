@@ -13,6 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+fesfjsiofhfuisdrhgdrgd
+jhrhj
+rftjhithjrihjrti8jrt8rhrihg
+rsjthirjhiortjhirjhoi[
+
 namespace WpfTestGit
 {
     /// <summary>
