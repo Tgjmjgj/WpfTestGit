@@ -24,6 +24,10 @@ namespace WpfTestGit
         {
             InitializeComponent();
         }
+		fesfsefsef
+		falsese
+		falseesf
+		
 
         public void MethodForTest()
         {
