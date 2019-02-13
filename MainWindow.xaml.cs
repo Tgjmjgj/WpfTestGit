@@ -25,6 +25,7 @@ namespace WpfTestGit
             InitializeComponent();
 		int a = 2;
 		double b = 1.32;
+fesffs
         }
 
         public void MethodForTest()
