@@ -23,6 +23,7 @@ namespace WpfTestGit
         public MainWindow()
         {
             InitializeComponent();
+		int a = 2;
         }
 
         public void MethodForTest()
